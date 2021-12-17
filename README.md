@@ -1,12 +1,7 @@
-# Simple Unique Link Scraper
+# Simple Go Tools 
 
-a simple app to scrape unique links on the websites.
+There is some simple go tools
 
+## List
 
-## Running
-
-```go
-$ make 
-
-$ ./scraper https://wikipedia.com/ https://news.ycombinator.com/
-```
+-   [go scraper](/scraper)
